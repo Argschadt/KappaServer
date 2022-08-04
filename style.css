@@ -107,7 +107,7 @@ body{
 }
 
 .btn-more:active {
-  transform: rotate(90deg) scale(2);
+  transform: rotate(800deg) scale(2);
 }
 
 .members {
