@@ -106,10 +106,6 @@ body{
   transform: scale(1.1)
 }
 
-.btn-more:active {
-  transform: rotate(180deg) scale(2);
-}
-
 .members {
   background-color: #32353b;
   text-align: center;
