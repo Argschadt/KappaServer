@@ -141,10 +141,29 @@ body{
   margin: 0 0 20px 0;
 }
 
+.div-mvv {
+  background-color: #32353b;
+  text-align: center;
+  margin: 70px 10%;
+  padding: 20px 0;  
+}
+
 .mvv {
   align-items: center;
   text-align: center;
   display: flex;
-  flex-direction: row;
+  flex-flow: row nowrap;
   justify-content: space-evenly;
+}
+
+.mvv-items > h2 {
+  text-align: center;
+  font-size: 25px;
+  font-weight: 800;
+  padding-bottom: 20px;
+}
+
+.mvv-items > p {
+  font-size: 20px;
+  padding: 0 10px;
 }
